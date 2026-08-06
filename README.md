@@ -6,3 +6,13 @@
     />
   </a>
 </p>
+
+<h2 align="center">🛠️ Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,docker&perline=7"
+    />
+  </a>
+</p>
