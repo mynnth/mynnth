@@ -85,5 +85,5 @@
 <h2 align="center">🌆 3D Contribution Calendar</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mynnth/mynnth/profile-3d-contrib/profile-night-green.svg" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
