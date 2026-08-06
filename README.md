@@ -50,7 +50,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nowhere-code&theme=github-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mynnth&theme=github-dark&hide_border=true&area=true"
   />
 </p>
 
