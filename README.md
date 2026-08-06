@@ -85,5 +85,5 @@
 <h2 align="center">🌆 3D Contribution Calendar</h2>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
