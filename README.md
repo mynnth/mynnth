@@ -50,18 +50,32 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mynnth&theme=github-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mynnth&theme=react-dark&hide_border=true"
   />
 </p>
 
 ---
 
-<h2 align="center">🏆 GitHub Milestones</h2>
+<h2 align="center">🏆 GitHub Highlights</h2>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=nowhere-code&theme=algolia&no-frame=true&row=2&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=mynnth&theme=radical&no-frame=true&column=6"
   />
 </p>
 
 ---
+
+<h2 align="center">📌 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mynnth&show_icons=true&theme=radical&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mynnth&theme=radical&hide_border=true"
+  />
+</p>
