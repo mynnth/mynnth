@@ -43,3 +43,25 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+<h2 align="center">📊 Activity Overview</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nowhere-code&theme=github-dark&hide_border=true&area=true"
+  />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Milestones</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=nowhere-code&theme=algolia&no-frame=true&row=2&column=7"
+  />
+</p>
+
+---
