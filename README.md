@@ -45,9 +45,9 @@
 ---
 
 ## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mynnth&theme=algolia&no-frame=true&row=2&column=6"/>
+</p>
 ---
 
 <h2 align="center">📌 GitHub Statistics</h2>
