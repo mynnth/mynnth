@@ -21,13 +21,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Change color to purple
-        run: |
-          sed -i 's/#39d353/#a855f7/g' profile-3d-contrib/profile-green-animate.svg
-          sed -i 's/#26a641/#9333ea/g' profile-3d-contrib/profile-green-animate.svg
-          sed -i 's/#006d32/#7e22ce/g' profile-3d-contrib/profile-green-animate.svg
-          sed -i 's/#0e4429/#581c87/g' profile-3d-contrib/profile-green-animate.svg
-
       - name: Commit & Push
         run: |
           git config user.name github-actions
