@@ -60,7 +60,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=mynnth&theme=radical&no-frame=true&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=mynnth&theme=tokyonight"
   />
 </p>
 
