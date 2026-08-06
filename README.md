@@ -9,19 +9,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Skills in Progress</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,docker&perline=7"
-    />
-  </a>
-</p>
-
----
-
-<h2>🚀 Tech Stack</h2>
+<h2>🛠️ Tech Skills in Progress</h2>
 
 <h3>🔗 Programming</h3>
 
