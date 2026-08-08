@@ -9,7 +9,7 @@
 
 ---
 
-<h2>🛠️ Tech Skills in Progress</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <h3>🔗 Programming</h3>
 
