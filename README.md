@@ -1,19 +1,18 @@
 ## About me
 
-Self-taught web security enthusiast.
+<a href="https://discord.com/users/1155331814429307010">
+  <img
+    align="right"
+    width="42%"
+    src="https://lanyard.cnrad.dev/api/1155331814429307010?theme=dark&bg=0d1117&borderRadius=10px&showDisplayName=true"
+    alt="Discord Presence"
+  />
+</a>
 
-**Period.**
+- Self-taught **web security enthusiast**.
+- **Period.**
 
----
-
-<p align="center">
-  <a href="https://discord.com/users/1155331814429307010">
-    <img
-      src="https://lanyard.cnrad.dev/api/1155331814429307010?theme=dark&bg=0d1117&borderRadius=10px&showDisplayName=true"
-      alt="Discord Presence"
-    />
-  </a>
-</p>
+<br clear="right">
 
 ---
 
