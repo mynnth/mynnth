@@ -1,3 +1,10 @@
+## About
+
+Cybersecurity • Web Security • CTFs • Linux
+
+Learning by breaking, analyzing, and rebuilding.
+
+
 <p align="center">
   <a href="https://discord.com/users/1155331814429307010">
     <img
