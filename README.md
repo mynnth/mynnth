@@ -4,6 +4,8 @@ Self-taught cybersecurity and web security enthusiast.
 
 *Learning by breaking, analyzing, and rebuilding.*
 
+**Period.**
+
 ---
 
 <p align="center">
