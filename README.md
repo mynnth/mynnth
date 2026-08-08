@@ -1,8 +1,6 @@
 ## About me
 
-Self-taught cybersecurity and web security enthusiast.
-
-*Learning by breaking, analyzing, and rebuilding.*
+Self-taught web security enthusiast.
 
 **Period.**
 
