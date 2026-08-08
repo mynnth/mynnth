@@ -1,6 +1,6 @@
 ## About me
 
-Cybersecurity • Web Security
+Self-taught cybersecurity and web security enthusiast.
 
 *Learning by breaking, analyzing, and rebuilding.*
 
