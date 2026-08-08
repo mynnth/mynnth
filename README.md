@@ -1,9 +1,10 @@
-## About
+## About me
 
-Cybersecurity • Web Security • CTFs • Linux
+Cybersecurity • Web Security
 
-Learning by breaking, analyzing, and rebuilding.
+*Learning by breaking, analyzing, and rebuilding.*
 
+---
 
 <p align="center">
   <a href="https://discord.com/users/1155331814429307010">
@@ -54,7 +55,7 @@ Learning by breaking, analyzing, and rebuilding.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mynnth&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy-mynnth1.vercel.app/?username=mynnth&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </p>
 
 ---
