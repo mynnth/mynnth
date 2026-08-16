@@ -80,23 +80,3 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
-
----
-
-## ⭐ Favorite Repositories
-
-<div align="center">
-
-<a href="https://github.com/mynnth/free-claude-code">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mynnth&repo=free-claude-code&theme=radical&hide_border=true"
-  />
-</a>
-
-<a href="https://github.com/mynnth/bio-custom">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mynnth&repo=bio-custom&theme=radical&hide_border=true"
-  />
-</a>
-
-</div>
