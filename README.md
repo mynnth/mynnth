@@ -80,3 +80,23 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
+
+---
+
+## ⭐ Favorite Repositories
+
+<div align="center">
+
+<a href="https://github.com/mynnth/repo1">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mynnth&repo=repo1&theme=radical&hide_border=true"
+  />
+</a>
+
+<a href="https://github.com/mynnth/repo2">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mynnth&repo=repo2&theme=radical&hide_border=true"
+  />
+</a>
+
+</div>
