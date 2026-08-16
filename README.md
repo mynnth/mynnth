@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mynnth&label=PROFILE+VIEWS&color=39ff14&style=flat" alt="Profile Views" />
+</p>
+
 ## About me
 
 <a href="https://discord.com/users/1155331814429307010">
