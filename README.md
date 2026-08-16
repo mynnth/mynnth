@@ -87,15 +87,15 @@
 
 <div align="center">
 
-<a href="https://github.com/mynnth/repo1">
+<a href="https://github.com/mynnth/free-claude-code">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mynnth&repo=repo1&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mynnth&repo=free-claude-code&theme=radical&hide_border=true"
   />
 </a>
 
-<a href="https://github.com/mynnth/repo2">
+<a href="https://github.com/mynnth/bio-custom">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mynnth&repo=repo2&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mynnth&repo=bio-custom&theme=radical&hide_border=true"
   />
 </a>
 
