@@ -13,8 +13,9 @@
   />
 </a>
 
-- Self-taught **web security enthusiast**.
-- **Period.**
+- a living entity on Earth.
+- interests: none
+- hobbies: none
 
 <br clear="right">
 
